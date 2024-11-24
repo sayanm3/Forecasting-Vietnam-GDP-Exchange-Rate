@@ -4,7 +4,7 @@ This repository contains two forecasting projects: **GDP Forecasting Using ETS M
 
 ---
 
-## 1. GDP Forecasting Using ETS Model
+## 1. Vietnam GDP Forecasting Using ETS Model
 
 ### 📖 Introduction
 This project focuses on forecasting GDP using the Exponential Smoothing (ETS) model. The objective is to analyze historical GDP data and predict future values, providing insights for economic planning and decision-making.
